@@ -1,4 +1,4 @@
 NYCE
 ====
 
-Dodumentos utilzados en verficación
+Dodumentos utiilzados en verficación
